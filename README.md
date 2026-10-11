@@ -1,7 +1,7 @@
 # ConfuserEx2-Unpacker
 Мой custom распаковщик для файлов .NET которые были обфусцированны при помощи ConfuserEx2, код написал недавно. Не поддерживает ConfuserEx1.0.0, тестил распаковку на версии ConfuserEx2(1.6.0.0) на скринах показал до и после.( использовался максимальный протект все функции были включены ) после распаковки файл запускается
 
-[Before](https://github.com/CusDec-dev/ConfuserEx2-Unpacker/blob/main/673.png)
+![Before](https://github.com/CusDec-dev/ConfuserEx2-Unpacker/blob/main/673.png)
 ![Unpacking log](https://github.com/CusDec-dev/ConfuserEx2-Unpacker/blob/main/672.png)
 ![After](https://github.com/CusDec-dev/ConfuserEx2-Unpacker/blob/main/671.png)
 
